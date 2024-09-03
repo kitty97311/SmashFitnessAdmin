@@ -1,0 +1,34 @@
+
+-Set Script 
+-Set Fitness 
+
+worked on Fitness
+
+ -Dashboard
+	- Set Count Of Record in Database Table
+
+-Exersice Category
+	-Add Category
+	-Edit Category
+	-Delete Category
+
+-Exersice Set Page
+	-Add Exersice Set
+	-Edit Exersice Set
+	-Delet Exersice Set
+
+-Exersice Page Completed
+-User Page Set
+-Send Notification Page Set
+-Android Notification Page Set
+-IOS Notification Page Set
+
+-Api
+	-get_allexcercise
+	-get_category
+	-get_exercise_step_list
+	-get_exercise
+	-get_set_by_category
+	-getexercisebycategory
+	-tokan_data
+	-user_register
